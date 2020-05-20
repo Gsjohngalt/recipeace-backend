@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Recipeace-db-dev" uuid="e499cda6-b474-47d1-8834-b6b20cabfd35">
+      <driver-ref>mongo</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.dbschema.MongoJdbcDriver</jdbc-driver>
+      <jdbc-url>mongodb://recipeace-db:vMXgHpTl23Lvr7O3O1VMDeHQGF9H36W3LrN8z4X3RObvd9gtD2sdiRLKhvWhRDrMfKU0e14jNL9sWhyLnZaoYQ==@recipeace-db.mongo.cosmos.azure.com:10255/?ssl=true&amp;replicaSet=globaldb&amp;retrywrites=false&amp;maxIdleTimeMS=120000&amp;appName=@recipeace-db@</jdbc-url>
+    </data-source>
+  </component>
+</project>

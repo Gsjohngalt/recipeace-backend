@@ -1,0 +1,15 @@
+CHANGES.txt
+MANIFEST.in
+README.rst
+setup.py
+scrape/__init__.py
+scrape/crawler.py
+scrape/orderedset.py
+scrape/scrape.py
+scrape/utils.py
+scrape.egg-info/PKG-INFO
+scrape.egg-info/SOURCES.txt
+scrape.egg-info/dependency_links.txt
+scrape.egg-info/entry_points.txt
+scrape.egg-info/requires.txt
+scrape.egg-info/top_level.txt
